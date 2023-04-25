@@ -1,6 +1,6 @@
 # Robert Aulet
 
-👋 Hey there! I'm Robert, a prospective software engineer from Miami, Florida. Since a yound child, I have always been passionate about problem solving and learning (particularly in STEM disciplines), which made pursuing technology the clear choice. I recently graduated from Florida International University with a degree in Computer Science, which I hope to use to create truly innovative solutions to the most challenging problems in our society one day!
+👋 Hey there! I'm Robert, a prospective software engineer from Miami, Florida. Since a yound child, I have always been passionate about problem solving and learning (particularly in STEM disciplines), which made pursuing technology the clear choice. I recently graduated from Florida International University with a degree in Computer Science, which I hope to use to create truly innovative solutions to the most challenging problems in our society!
 
 ## Skills
 
@@ -10,7 +10,7 @@
 
 ## Projects
 
-🔐 Stronghold - Password Manager App
+🔐 Stronghold - Password Manager
 
 📚 StudyBuddy Pro - ML Automated Essay Feedback
 
