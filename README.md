@@ -1,6 +1,11 @@
-# Robert Aulet
+<h1 align="center">Robert Aulet</h1>
 
 👋 Hey there! I'm Robert, a software engineer from Miami, Florida. Since a young child, I have always been passionate about problem solving and learning (particularly in STEM disciplines), which made pursuing technology the clear choice. I recently graduated from Florida International University with a degree in Computer Science, which I hope to use to create truly innovative solutions to the most challenging problems in our society!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/robert-aulet">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</p>
 
 ## Skills
 
