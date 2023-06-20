@@ -22,7 +22,20 @@
 
 ## Currently Studying
 
-📖 Python, Java, Machine Learning, Relational Databases
+📖 Python, Machine Learning, Artificial Intelligence
+
+## Stats
+
+<p align="center">
+  <a href="https://github.com/wavesdevs">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wavesdevs&theme=transparent" />
+  </a>
+  <a href="https://github.com/wavesdevs">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wavesdevs&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/wavesdevs">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wavesdevs&theme=transparent" />
+</p>
 
 <!--
 **wavesDevs/wavesDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
