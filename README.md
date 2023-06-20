@@ -10,6 +10,8 @@
 
 ## Projects
 
+SolarSim - Solar system simulation
+
 🔐 Stronghold - Password Manager
 
 📚 StudyBuddy Pro - ML Automated Essay Feedback
