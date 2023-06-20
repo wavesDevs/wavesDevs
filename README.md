@@ -10,7 +10,7 @@
 
 ## Projects
 
-🌌 SolarSim - Solar system simulation
+🌌 SolarSim - Solar System Simulation
 
 🔐 Stronghold - Password Manager
 
