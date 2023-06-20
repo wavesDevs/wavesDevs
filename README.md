@@ -29,7 +29,6 @@
 
 📖 Python, Machine Learning, Artificial Intelligence
 
-## Stats
 
 <p align="center">
   <a href="https://github.com/wavesdevs">
